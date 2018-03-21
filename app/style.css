@@ -1,0 +1,32 @@
+table{
+    width:900px;
+    height: 900px;
+}
+td{
+    border: none;
+    text-align: center;
+    width:100px;
+    height: 100px;
+}
+img{
+     width:80px;
+    height: 80px;
+    text-align: center;
+}
+.black{
+    background-color: #c37a4c;
+}
+.white{
+    background-color: #eab797
+}
+
+div{
+    display: block;
+    margin: 0 auto;
+    
+}
+input{
+    font-family: monospace;
+    font-size: 15px;
+    color: #932626;
+}
